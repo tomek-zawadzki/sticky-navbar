@@ -65,11 +65,12 @@ body {
     display: inline-block;
     background: none;
     border: none;
-    font-size: 20px;
+    font-size: 36px;
     cursor: pointer;
+    color: #ff7575;
     position: absolute;
-    right: 0px;
-    top: 17.5px;
+    right: 4px;
+    top: 9px;
   }
 
   .navbar__menu--list {
