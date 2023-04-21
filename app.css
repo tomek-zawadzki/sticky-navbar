@@ -19,6 +19,8 @@ body {
 .navbar {
   height: 60px;
   background: #111;
+  position: sticky;
+  top: 0;
 }
 .navbar__menu {
   margin: 0;
@@ -51,4 +53,7 @@ body {
   max-width: 728px;
   padding-top: 50px;
   margin-bottom: 50px;
+}
+
+@media (max-width: 700px) {
 }
